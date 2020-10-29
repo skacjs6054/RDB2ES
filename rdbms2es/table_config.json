@@ -1,0 +1,5 @@
+{
+	"table_name" : "rdbms_table",
+	"id" : "id",
+	"columns" : ["your", "columns"]
+}
