@@ -44,6 +44,6 @@ mymysql.py - the code to connect rdbms
 #### You must create the table with some fixed columns in RDBMS.
 1. id
 2. modification_time
-3. insertion_time
+3. insertion_time  
 please refer to [this site](https://www.elastic.co/blog/how-to-keep-elasticsearch-synchronized-with-a-relational-database-using-logstash).
 
