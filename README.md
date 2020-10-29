@@ -5,11 +5,12 @@ This code is just my private code to use only python that link the RDBMS to Elas
 I just share my code and I'm never responsible for the problem that is caused by this code.
 
 
-Require
+Requirements
 -------
  - Elasticsearch(in this used 7.9)
  - MariaDB (in this used 10.3.22, or MySQL available)
  - Flask (in this used 1.1.x)
+ - and other modules that you can install by use pip
  
 if you want to use this code, just use by command
 ```
