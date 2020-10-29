@@ -2,6 +2,7 @@ Relationship DataBase To ElasticSearch
 =============
 
 This code is just my private code to use only python that link the RDBMS to Elasticsearch.
+I just share my code and I'm never responsible for the problem that is caused by this code.
 
 
 Require
