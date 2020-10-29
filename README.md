@@ -20,7 +20,7 @@ File Instruction
 app.py - Main code that connect rdbms and elasticsearch, and link these
 mymysql.py - the code to connect rdbms
 
-###Please your configuration in json file.
+### Please your configuration in json file.
 1. es_config.json
  - host : your elasticsearch's ip address
  - port : your elasticsearch's port
@@ -39,7 +39,7 @@ mymysql.py - the code to connect rdbms
  - columns : mysql columns list that you want to link with elasticsearch
 
 
-####You must create the table with some fixed columns in RDBMS.
+#### You must create the table with some fixed columns in RDBMS.
 1. id
 2. modification_time
 3. insertion_time
