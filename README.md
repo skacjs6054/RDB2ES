@@ -17,7 +17,7 @@ python app.py
 
 File Instruction
 -------
-app.py - Main code that connect rdbms and elasticsearch, and link these\n
+app.py - Main code that connect rdbms and elasticsearch, and link these  
 mymysql.py - the code to connect rdbms
 
 ### Please your configuration in json file.
