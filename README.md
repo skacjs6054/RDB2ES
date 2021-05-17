@@ -36,7 +36,7 @@ mymysql.py - the code to connect rdbms
  - db : your mysql's database that you want to link with Elasticsearch
 
 3. table_config.json
- - table_name : your mysql's table that you want to link with Elasticsearchc
+ - table_name : your mysql's table that you want to link with Elasticsearch
  - id : please mysql's column name that you want to use as a id in Elasticsearch
  - columns : mysql columns list that you want to link with elasticsearch
 
